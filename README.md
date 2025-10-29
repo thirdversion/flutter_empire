@@ -1,6 +1,8 @@
 <h2>The Founders at Third Version Technology Ltd are the original authors of Flutter Empire and are no longer affiliated with Strive Business Solutions. Flutter Empire is not being actively maintained and thus we have decided to fork, rebrand and re-release the package under a new name; Flutter Current.</h2>
 
-You can find the new repository for Current [HERE](https://github.com/thirdversion/flutter_current).
+<h3>You can find the new repository for Current <a href="https://github.com/thirdversion/flutter_current">HERE</a>.</h3>
+
+---
 
 <p align="center">
     <img src="https://github.com/strivesolutions/flutter_empire/raw/main/images/EmpireLogoMD.png"/>
